@@ -1,15 +1,15 @@
 [
 null,
-{"id":1,"atypeId":1,"description":"粉紅色和服，防禦力 ＋5","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":317,"name":"和服","note":"","params":[0,0,0,5,0,0,0,0],"price":5000},
+{"id":1,"atypeId":1,"description":"粉紅色和服，防禦力 ＋5","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":317,"name":"和服","note":"","params":[0,0,0,5,0,0,0,0],"price":3000},
 {"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":293,"name":"帽子 沒用到","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
-{"id":3,"atypeId":1,"description":"深藍色忍者服，是每個忍者必備的，防禦力 ＋10","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":313,"name":"忍者服","note":"","params":[0,0,0,10,0,2,0,0],"price":15000},
-{"id":4,"atypeId":1,"description":"在神社加持過的念珠。戴上之後，術力防禦力＋5","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":342,"name":"防禦念珠","note":"","params":[0,0,0,0,0,5,0,0],"price":8000},
-{"id":5,"atypeId":1,"description":"銅做的武士盔甲，防禦力＋15","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":304,"name":"武士盔甲","note":"","params":[0,0,0,15,0,5,0,0],"price":50000},
-{"id":6,"atypeId":1,"description":"會帶來好運的御守，幸運度＋5","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":350,"name":"開運御守","note":"","params":[0,0,0,0,0,0,0,5],"price":30000},
-{"id":7,"atypeId":1,"description":"黃色的魂玉，佩戴之後，術力攻擊力 +5 ","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":363,"name":"四魂之玉","note":"","params":[0,0,0,0,5,0,0,0],"price":50000},
+{"id":3,"atypeId":1,"description":"深藍色忍者服，是每個忍者必備的，防禦力 ＋10","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":313,"name":"忍者服","note":"","params":[0,0,0,10,0,2,0,0],"price":3000},
+{"id":4,"atypeId":1,"description":"在神社加持過的念珠。戴上之後，術力防禦力＋5","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":342,"name":"防禦念珠","note":"","params":[0,0,0,0,0,5,0,0],"price":5000},
+{"id":5,"atypeId":1,"description":"銅做的武士盔甲，防禦力＋15","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":304,"name":"武士盔甲","note":"","params":[0,0,0,15,0,5,0,0],"price":8000},
+{"id":6,"atypeId":1,"description":"會帶來好運的御守，幸運度＋5","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":350,"name":"開運御守","note":"","params":[0,0,0,0,0,0,0,5],"price":5000},
+{"id":7,"atypeId":1,"description":"黃色的魂玉，佩戴之後，術力攻擊力 +5 ","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":363,"name":"四魂之玉","note":"","params":[0,0,0,0,5,0,0,0],"price":5000},
 {"id":8,"atypeId":1,"description":"一般木屐，適合日常生活使用，敏捷度＋1","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":324,"name":"木屐","note":"","params":[0,0,0,0,0,0,1,0],"price":3000},
 {"id":9,"atypeId":1,"description":"黑色的忍者鞋，很好跑，敏捷度＋4","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":322,"name":"黑色忍鞋","note":"","params":[0,0,0,0,0,0,4,0],"price":8000},
 {"id":10,"atypeId":1,"description":"能讓敵人掉落的金錢加倍！","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":64,"dataId":4,"value":1}],"iconIndex":416,"name":"招財貓","note":"","params":[0,0,0,0,0,0,0,0],"price":50000},
-{"id":11,"atypeId":1,"description":"能讓敵人看不見，在野外減少一半的遇敵率！","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":64,"dataId":0,"value":1}],"iconIndex":368,"name":"隱形捲軸","note":"","params":[0,0,0,0,0,0,0,0],"price":30000},
-{"id":12,"atypeId":1,"description":"能讓完全敵人看不見，在野外減少所有的遇敵率！","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":64,"dataId":1,"value":1}],"iconIndex":369,"name":"完全隱形捲軸","note":"","params":[0,0,0,0,0,0,0,0],"price":50000}
+{"id":11,"atypeId":1,"description":"能讓敵人看不見，在野外減少一半的遇敵率！","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":64,"dataId":0,"value":1}],"iconIndex":368,"name":"隱形捲軸","note":"","params":[0,0,0,0,0,0,0,0],"price":10000},
+{"id":12,"atypeId":1,"description":"能讓完全敵人看不見，在野外減少所有的遇敵率！","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":64,"dataId":1,"value":1}],"iconIndex":369,"name":"完全隱形捲軸","note":"","params":[0,0,0,0,0,0,0,0],"price":30000}
 ]
